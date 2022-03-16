@@ -1,5 +1,6 @@
 Change 1 on the master branch
-Change 2 on the master branch<<<<<<< HEAD
+<<<<<<< HEAD
+Change 2 on the master branch
 =======
 Change 2 on MyBranch
 >>>>>>> MyBranch
